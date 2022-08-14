@@ -3,7 +3,6 @@
 
 <head>
     <title>Halaman Sign Up</title>
-    <link rel="stylesheet" href="../style.css">
 </head>
 
 <body>
